@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * CubeCart v6
+ * ========================================
+ * CubeCart is a registered trade mark of CubeCart Limited
+ * Copyright CubeCart Limited 2014. All rights reserved.
+ * UK Private Limited Company No. 5323904
+ * ========================================
+ * Web:   http://www.cubecart.com
+ * Email:  sales@cubecart.com
+ * License:  GPL-3.0 http://opensource.org/licenses/GPL-3.0
+-->
+<definitions version="1.0">
+ <group name="billplz">
+  <string name="api_key"><![CDATA[API Secret Key]]></string>
+  <string name="x_signature"><![CDATA[X Signature Key]]></string>
+  <string name="collection_id"><![CDATA[Collection ID]]></string>
+  <string name="billplz_description"><![CDATA[Description to appear on Billplz Payment Page]]></string>
+  <string name="send_bill"><![CDATA[Send Billplz Bill To Customer]]></string>
+  <string name="mode_0"><![CDATA[Don't Send]]></string>
+  <string name="mode_1"><![CDATA[Send Email (FREE)]]></string>
+  <string name="mode_2"><![CDATA[Send SMS (RM0.15)]]></string>
+  <string name="mode_3"><![CDATA[Send Both (RM0.15)]]></string>
+  <string name="module_description"><![CDATA[Billplz works by sending user to the Billplz payment page.]]></string>
+  <string name="module_title"><![CDATA[Billplz]]></string>
+ </group>
+</definitions>
