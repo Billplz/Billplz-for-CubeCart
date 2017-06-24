@@ -13,8 +13,8 @@ There is no Auto Install/Upgrade for this time
 
 # Manual Install
 
-1. Download/Clone this repository
-2. Upload the main folder to the modules/gateway folder
+1. **Download/Clone** this repository
+2. Upload the main folder to the **modules/gateway** folder
 3. It may be necessary to clear your store cache before it shows in the admin control panel of your store. This can be done from the "Rebuild" tab of the "Maintenance" area. Select "Clear cache" the click the submit button.
 
 # How do I enable Website Payments Standard in CubeCart?
