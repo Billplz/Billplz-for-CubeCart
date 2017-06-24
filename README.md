@@ -27,6 +27,6 @@ There is no Auto Install/Upgrade for this time
     * Description: **Billplz**
     * API Secret Key: Get your API Secret Key at www.billplz.com
     * X Signature Key: Get your X Signature key at www.billplz.com
-    * Description to appear: Payment for Order or **<Any string with less than 200 Character)**
-    * Send Billplz Bill to Customer: **Don't Send**
-4. Click Save
+    * Description to appear: Payment for Order or <Any string with less than 200 Character>
+    * Send Billplz Bill to Customer: **Don't Send**
+4. Click **Save**
